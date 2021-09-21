@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "853910582706",
+    "firebase_url": "https://app-absensi-5bed4-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "app-absensi-5bed4",
+    "storage_bucket": "app-absensi-5bed4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853910582706:android:aa9b5246681f9e7f61e0ab",
+        "android_client_info": {
+          "package_name": "com.mr.attendanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853910582706-iodia7a1ho8chfo9e85oqalbdtg6seal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm-MdfMZ4p9qesQXWdgfCCL0jJsHFAnq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853910582706-iodia7a1ho8chfo9e85oqalbdtg6seal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
